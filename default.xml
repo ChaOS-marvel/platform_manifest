@@ -23,7 +23,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="ChameleonOS/android" />
+  <project path="platform_manifest" name="ChaOS-marvel/platform_manifest" />
 
   <project path="abi/cpp" name="ChameleonOS/android_abi_cpp" />
   <project path="bionic" name="WinSuk/android_bionic" remote="gh" revision="cm-10.1" />

@@ -292,7 +292,7 @@
   <project path="packages/apps/Exchange" name="ChameleonOS/android_packages_apps_Exchange" />
   <project path="packages/apps/Flypaper" name="ChameleonOS/android_packages_apps_Flypaper" />
   <project path="packages/apps/Gallery" name="ChameleonOS/android_packages_apps_Gallery" />
-  <project path="packages/apps/Gallery2" name="ChameleonOS/android_packages_apps_Gallery2" />
+  <project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" remote="gh" revision="cm-10.1" />
   <project path="packages/apps/HTMLViewer" name="ChameleonOS/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="ChameleonOS/android_packages_apps_KeyChain" />
   <project path="packages/apps/Launcher2" name="ChameleonOS/android_packages_apps_Launcher2" />

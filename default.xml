@@ -30,7 +30,7 @@
   <project path="bootable/diskinstaller" name="ChameleonOS/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="ChameleonOS/android_bootable_recovery" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
-  <project path="dalvik" name="CyanogenMod/android_dalvik" remote="gh" revision="github" />
+  <project path="dalvik" name="CyanogenMod/android_dalvik" remote="gh" revision="cm-10.1" />
   <project path="development" name="ChameleonOS/android_development" />
   <project path="device/common" name="ChameleonOS/android_device_common" />
   <project path="device/generic/armv7-a-neon" name="ChameleonOS/android_device_generic_armv7-a-neon" />
@@ -125,7 +125,7 @@
   <project path="external/libgsm" name="ChameleonOS/android_external_libgsm" />
   <project path="external/liblzf" name="ChameleonOS/android_external_liblzf" />
   <project path="external/libmtp" name="ChameleonOS/android_external_libmtp" />
-  <project path="external/libncurses" name="androidarmv6/android_external_libncurses" remote="gh" revision="github" />
+  <project path="external/libncurses" name="androidarmv6/android_external_libncurses" remote="gh" revision="cm-10.1" />
   <project path="external/libnfc-nci" name="ChameleonOS/android_external_libnfc-nci" />
   <project path="external/libnfc-nxp" name="ChameleonOS/android_external_libnfc-nxp" />
   <project path="external/libnl-headers" name="ChameleonOS/android_external_libnl-headers" />
